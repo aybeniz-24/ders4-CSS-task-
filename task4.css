@@ -1,0 +1,83 @@
+body{
+    background: rgb(141, 68, 173);
+}
+
+
+.circle{
+    width: 150px;
+    border-radius: 50%;
+    border: 1px solid rgb(138, 68, 171);
+    margin: 30px  auto;
+    padding: 5px 5px 0 5px;
+}
+
+img{
+    width: 150px;
+    border-radius: 50%;
+    
+}
+
+.name{
+    font: 1.5em Arial, sans-serif;
+    color: rgb(138, 68, 171);
+    text-align: center;   
+}
+
+i{
+    color: rgb(138, 68, 171);
+    
+}
+
+.text{
+    text-align: center;
+    padding: 0 15px 10px 15px;
+}
+
+p{
+    text-align: justify;
+}
+
+button{
+    border: 1px solid  rgb(138, 68, 171);
+    padding: 10px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.read{
+    background: white;
+    color: rgb(138, 68, 171) ;
+    margin: 5px;
+}
+
+.sub{
+    background:  rgb(138, 68, 171);
+    color: white;
+}
+
+
+
+.box1{
+    width: 300px;
+    background: white;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.box2{
+    width: 300px;
+    background: white;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+
+.box3{
+    width: 300px;
+    background: white;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 10px;
+}

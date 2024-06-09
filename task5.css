@@ -1,0 +1,110 @@
+body{
+    box-sizing: border-box ;
+}
+
+
+h4{
+    padding: 0 20px 0 20px;
+    display: inline-block;
+}
+
+p{
+    padding: 0 10px 0 10px;
+    font-size: 0.5px;
+    margin: -10px 5px 10px 2px;
+}
+
+
+
+.hesab{
+    width: 60px;
+    float: left;
+    border-radius: 50%;
+    margin: 10px 10px 10px 20px;
+ 
+}
+
+h6{
+   display: inline-block;
+    text-align: left;
+}
+
+.time{
+    text-align: left;
+    padding: 0 20px 20px 0;
+}
+
+.fon{
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.box1{
+    display: inline-block;
+    background: white;
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px silver;
+}
+
+
+.tecno{
+    width: 100px;
+    margin: 10px 40px 10px 20px;
+    font: .1em Arial, sans-serif;
+    background: rgb(150, 210, 222);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 4px;
+    display: block;
+}
+
+
+
+.box2{
+    display: inline-block;
+    background: white;
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px silver;
+}
+
+
+
+
+.popular{
+    width: 100px;
+    margin: 10px 40px 10px 20px;
+    font: .1em Arial, sans-serif;
+    background: rgb(56, 33, 149);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 4px;
+    display: block;
+}
+
+.box3{
+    display: inline-block;
+    background: white;
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px silver;
+}
+
+.design{
+    width: 100px;
+    margin: 10px 40px 10px 20px;
+    font: .1em Arial, sans-serif;
+    background: rgb(64, 159, 76);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 4px;
+    display: block;
+}
+
